@@ -1,3 +1,4 @@
+<div align="center>
 # 👋 Hi, I'm Krushna Dasarwad
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Computer+Science+Student;Full+Stack+Developer;Committed+to+lifelong+learning;learn+✘+unlearn+✘+relearn" width="415" />
@@ -104,3 +105,5 @@ Data Structures & Algorithms
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
