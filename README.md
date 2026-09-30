@@ -78,26 +78,8 @@ A smart college management platform built using the MERN stack.
 
 ---
 
-### 🧠 Second Brain
-
-A productivity application for organizing and managing
-important information, links and notes.
-
-**Tech:** React.js, Node.js, Express.js, MongoDB
-
 ---
 
-### 📝 Java Notepad
-
-A desktop-based Notepad application developed using Java.
-
-**Features:**
-- Create & Edit files
-- Save files
-- Open files
-- Basic text editing
-
-**Tech:** Java, Java Swing
 
 ---
 
