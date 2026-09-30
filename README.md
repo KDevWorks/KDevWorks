@@ -1,6 +1,134 @@
 # 👋 Hi, I'm Krushna Dasarwad
 <!--
-### Full-Stack Developer | MERN Stack | Java | Spring Boot | AI Enthusiast
+## Full-Stack Developer | MERN Stack | Java | Spring Boot | AI Enthusiast
+
+# 👋 Hi, I'm Krushna Dasarwad
+
+### 💻 Full-Stack Developer | MERN Stack | Java | Spring Boot | DSA
+
+I'm a Computer Engineering student passionate about building
+real-world web applications and learning backend development.
+
+🚀 Currently focusing on:
+- Java & Spring Boot
+- Data Structures & Algorithms
+- MERN Stack
+- Backend Development
+- SQL & Databases
+- Building real-world projects
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krushna%20Dasarwad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnaa003)
+
+[![GitHub](https://img.shields.io/badge/GitHub-KDevWorks-181717?style=for-the-badge&logo=github)](https://github.com/KDevWorks)
+
+---
+
+## 💻 Tech Stack
+
+### 🚀 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏫 SmartCampus Hub
+A smart college management platform built using the MERN stack.
+
+**Features:**
+- Student & Admin Authentication
+- Notice Management
+- Event Management
+- Complaint Tracking
+- Attendance Prediction
+- Role-based Access
+
+**Tech:** React.js, Node.js, Express.js, MongoDB, JWT
+
+---
+
+### 🧠 Second Brain
+
+A productivity application for organizing and managing
+important information, links and notes.
+
+**Tech:** React.js, Node.js, Express.js, MongoDB
+
+---
+
+### 📝 Java Notepad
+
+A desktop-based Notepad application developed using Java.
+
+**Features:**
+- Create & Edit files
+- Save files
+- Open files
+- Basic text editing
+
+**Tech:** Java, Java Swing
+
+---
+
+## 🏆 Achievements
+
+🏅 Second Prize – Brainwaves 2K24 State Level Technical Event
+
+💻 Participated in Hackathons & Technical Events
+
+🎯 Working on Full-Stack Development and DSA
+
+---
+
+## 📚 Currently Learning
+
+```text
+Java
+   ↓
+OOP & Advanced Java
+   ↓
+Spring Boot
+   ↓
+REST APIs
+   ↓
+SQL & Databases
+   ↓
+Data Structures & Algorithms
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
