@@ -1,11 +1,9 @@
 <div align="center">
  <h1>👋 Hi, I'm Krushna Dasarwad</h1>
- <br>
 <p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Computer+Science+Student;Full+Stack+Developer;Committed+to+lifelong+learning;learn+✘+unlearn+✘+relearn" width="415" />
  </p>
 </div>
-<br>
 
 ### 💻 Full-Stack Developer | MERN Stack | Java | Spring Boot | DSA
 
