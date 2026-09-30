@@ -67,9 +67,11 @@ A smart college management platform built using the MERN stack.
 
 ## 🏆 Achievements
 
-🏅 Second Prize – Brainwaves 2K24 State Level Technical Event
-💻 Participated in Hackathons & Technical Events
-🎯 Working on Full-Stack Development and DSA
+-🏅 Second Prize – Brainwaves 2K24 State Level Technical Event
+
+-💻 Participated in Hackathons & Technical Events
+
+-🎯 Working on Full-Stack Development and DSA
 
 <div align="center">
 <br>
