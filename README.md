@@ -1,9 +1,6 @@
-## Hi there 👋
-
+# 👋 Hi, I'm Krushna Dasarwad
 <!--
-**KDevWorks/KDevWorks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Full-Stack Developer | MERN Stack | Java | Spring Boot | AI Enthusiast
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
