@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Krushna Dasarwad
 
-## Full-Stack Developer | MERN Stack | Java | Spring Boot | AI Enthusiast
-
-# 👋 Hi, I'm Krushna Dasarwad
-
 ### 💻 Full-Stack Developer | MERN Stack | Java | Spring Boot | DSA
 
 I'm a Computer Engineering student passionate about building
