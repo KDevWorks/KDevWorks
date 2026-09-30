@@ -1,7 +1,12 @@
 <div align="center">
  <h1>👋 Hi, I'm Krushna Dasarwad</h1>
-</div>
+ <br>
+<p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Computer+Science+Student;Full+Stack+Developer;Committed+to+lifelong+learning;learn+✘+unlearn+✘+relearn" width="415" />
+ </p>
+</div>
+<br>
+
 ### 💻 Full-Stack Developer | MERN Stack | Java | Spring Boot | DSA
 
 I'm a Computer Engineering student passionate about building
@@ -15,8 +20,6 @@ real-world web applications and learning backend development.
 - SQL & Databases
 - Building real-world projects
 - 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
-[![GitHub](https://img.shields.io/badge/GitHub-KDevWorks-181717?style=for-the-badge&logo=github)](https://github.com/KDevWorks)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
 
